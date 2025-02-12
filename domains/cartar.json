@@ -3,12 +3,9 @@
   "repo": "https://github.com/realCartar",
   "owner": {
     "username": "realCartar",
-    "email": "",
     "twitter": "cartar0058"
   },
   "record": {
-    "A": [
-      "209.126.0.170" 
-    ]
+    "A": ["154.53.34.33"]
   }
 }

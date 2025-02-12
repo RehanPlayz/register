@@ -1,12 +1,9 @@
 {
-  "description": "Hugovidafe's website",
-  "repo": "https://github.com/Hugovidafe-OSS",
   "owner": {
-    "username": "Hugovidafe",
-    "email": "hugo.vidal.ferre@gmail.com",
-    "twitter": "Hugovidafe"
+    "username": "0x1026",
+    "email": "me@hugovidafe.dev"
   },
   "record": {
-    "CNAME": "hugovidafe.myddns.me"
+    "URL": "https://hugovidafe.dev"
   }
 }
